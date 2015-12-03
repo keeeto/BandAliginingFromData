@@ -7,3 +7,5 @@ This code is associated with the paper "Screening procedure for structurally and
 The IP and EA data are contained in the text file.
 
 The screening procedure can be performed using the interactive iPython notebook or the standalone python script.
+
+``` python python BandAlign.py -i 5.4 -e 4.0 -w 0.8 ```
